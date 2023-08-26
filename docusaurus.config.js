@@ -77,8 +77,8 @@ const config = {
             title: '文档',
             items: [
               {
-                label: '更新记录',
-                to: '/docs/update',
+                label: '更新说明',
+                to: '/docs/category/更新说明',
               },
             ],
           },
