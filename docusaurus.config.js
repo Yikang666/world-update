@@ -107,9 +107,6 @@ const config = {
           Copyright © ${new Date().getFullYear()} 地球Online服务器更新说明
           <br>
           使用 <a href="https://www.docusaurus.cn/" target="_blank" class="footer__link-item">Docusaurus</a> 构建
-          <br>
-          <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-          <span id="busuanzi_container_site_pv">本站总访问量 <span id="busuanzi_value_site_pv"></span> 次</span>
           `,
       },
       prism: {
