@@ -94,22 +94,23 @@ const config = {
             items: [
               {
                 label: "Yikang's Blog🥝",
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.iblog.gq',
               },
             ],
           },
-          {
-            title: '更多',
-            items: [
-              {
-                label: '项目GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+          // {
+          //   title: '更多',
+          //   items: [
+          //     {
+          //       label: '本项目GitHub',
+          //       href: 'https://github.com/Yikang666/123',
+          //     },
+          //   ],
+          // },
         ],
         copyright: 
           `
+          <br>
           Copyright © ${new Date().getFullYear()} 地球Online服务器更新说明
           <br>
           使用 <a href="https://www.docusaurus.cn/" target="_blank" class="footer__link-item">Docusaurus</a> 构建
