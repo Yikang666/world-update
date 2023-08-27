@@ -34,11 +34,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Yikang666/world-update/tree/main/',
         },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -73,7 +75,7 @@ const config = {
             items: [
               {
                 label: '更新说明',
-                to: '/docs/category/更新说明',
+                to: '/category/更新说明',
               },
             ],
           },
