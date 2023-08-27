@@ -8,18 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '地球Online服务器',
   tagline: '世界最大的服务器 在线玩家80亿+',
-  favicon: 'favicon.ico',
+  favicon: '/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://world.iblog.gq',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -60,7 +55,7 @@ const config = {
         title: '地球Online',
         logo: {
           alt: '地球Online',
-          src: 'img/earth.svg',
+          src: '/img/earth.svg',
         },
         // items: [
         //   {
@@ -106,7 +101,7 @@ const config = {
           <br>
           Copyright © ${new Date().getFullYear()} 地球Online服务器
           <br>
-          <span>使用 <a href="https://www.docusaurus.cn/" target="_blank" class="footer__link-item">Docusaurus</a> 构建</span>
+          <a href="https://www.docusaurus.cn/" target="_blank"><img style="height: 50px;" alt="使用Docusaurus构建" src="/img/buildwith.png"></img></a>
           `,
       },
       prism: {
