@@ -106,7 +106,7 @@ const config = {
           <br>
           Copyright © ${new Date().getFullYear()} 地球Online服务器
           <br>
-          <div>使用 <a href="https://www.docusaurus.cn/" target="_blank" class="footer__link-item">Docusaurus</a> 构建</div>
+          <p>使用 <a href="https://www.docusaurus.cn/" target="_blank" class="footer__link-item">Docusaurus</a> 构建</p>
           `,
       },
       prism: {
