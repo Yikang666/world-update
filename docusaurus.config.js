@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '地球Online服务器更新说明',
-  tagline: 'Dinosaurs are cool',
+  title: '地球Online服务器',
+  tagline: '世界最大的服务器 在线玩家80亿+',
   favicon: 'favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://world.iblog.gq',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -104,7 +104,7 @@ const config = {
         copyright: 
           `
           <br>
-          Copyright © ${new Date().getFullYear()} 地球Online服务器更新说明
+          Copyright © ${new Date().getFullYear()} 地球Online服务器
           <br>
           使用 <a href="https://www.docusaurus.cn/" target="_blank" class="footer__link-item">Docusaurus</a> 构建
           `,
