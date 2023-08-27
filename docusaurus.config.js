@@ -52,13 +52,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '地球Online',
         logo: {
           alt: '地球Online',
           src: '/img/earth.svg',
         },
+        hideOnScroll: true,
         // items: [
         //   {
         //     href: 'https://github.com/facebook/docusaurus',
