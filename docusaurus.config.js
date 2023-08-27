@@ -86,7 +86,7 @@ const config = {
             title: '友链',
             items: [
               {
-                label: "Yikang's Blog🥝",
+                label: "Yikang's Blog 🥝",
                 href: 'https://www.iblog.gq',
               },
             ],
@@ -106,7 +106,7 @@ const config = {
           <br>
           Copyright © ${new Date().getFullYear()} 地球Online服务器
           <br>
-          使用 <a href="https://www.docusaurus.cn/" target="_blank" class="footer__link-item">Docusaurus</a> 构建
+          <div>使用 <a href="https://www.docusaurus.cn/" target="_blank" class="footer__link-item">Docusaurus</a> 构建</div>
           `,
       },
       prism: {
