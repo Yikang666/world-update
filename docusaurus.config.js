@@ -84,7 +84,7 @@ const config = {
             items: [
               {
                 label: '地球OL服务器的个人空间',
-                href: 'https://www.bilibili.com/space/3537114889193811',
+                href: 'https://space.bilibili.com/3537114889193811',
               },
               {
                 label: "炒饭社区",
