@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '地球Online服务器',
-  tagline: '世界最大的服务器 在线玩家80亿+',
+  tagline: '开服46亿年 超80亿人同台竞技',
   favicon: '/favicon.ico',
 
   // Set the production url of your site here
@@ -82,6 +82,14 @@ const config = {
           {
             title: '友链',
             items: [
+              {
+                label: '地球OL服务器的个人空间',
+                href: 'https://www.bilibili.com/space/3537114889193811',
+              },
+              {
+                label: "炒饭社区",
+                href: 'https://choa.fun',
+              },
               {
                 label: "Yikang's Blog 🥝",
                 href: 'https://www.iblog.gq',
