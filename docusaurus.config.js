@@ -88,15 +88,15 @@ const config = {
               },
             ],
           },
-          // {
-          //   title: '更多',
-          //   items: [
-          //     {
-          //       label: '本项目GitHub',
-          //       href: 'https://github.com/Yikang666/123',
-          //     },
-          //   ],
-          // },
+          {
+            title: '更多',
+            items: [
+              //{
+              //  label: '本项目GitHub',
+              //  href: 'https://github.com/Yikang666/123',
+              //},
+            ],
+          },
         ],
         copyright: 
           `

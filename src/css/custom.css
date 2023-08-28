@@ -28,3 +28,23 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  background-color: #eeeeee;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c4c9c7;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #a6a6a6;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
