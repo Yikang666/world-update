@@ -37,8 +37,8 @@ const config = {
           routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Yikang666/world-update/tree/main/',
+          // editUrl:
+          //  'https://github.com/Yikang666/world-update/tree/main/',
         },
         blog: false,
         theme: {
