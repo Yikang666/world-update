@@ -48,6 +48,29 @@ const config = {
     ],
   ],
 
+  // headTags: [
+    // {
+    //   tagName: 'link',
+    //  attributes: {
+    //     rel: 'icon',
+    //     href: '/img/docusaurus.png',
+    //   },
+    // },
+  // ],
+
+  scripts: [
+    // '',
+      {
+        async: true,
+        id: 'LA_COLLECT',
+        src: '//sdk.51.la/js-sdk-pro.min.js?id=3FkViTHA3WsTgz5t&ck=3FkViTHA3WsTgz5t',
+      },
+  ],
+
+  stylesheets: [
+    // '',
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -111,7 +134,8 @@ const config = {
           <br>
           Copyright © ${new Date().getFullYear()} 地球Online服务器
           <br>
-          <a href="https://www.docusaurus.cn/" target="_blank"><img style="height: 50px; margin-top: 0.5rem" alt="使用Docusaurus构建" src="/img/buildwith.png"></img></a>
+          <a href="https://www.docusaurus.cn/" target="_blank" title="使用Docusaurus构建"><img style="height: 50px; margin-top: 0.5rem" alt="使用Docusaurus构建" src="/img/buildwith.png"></img></a>
+          <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/3FkViTHA3WsTgz5t/quote.js?theme=0&f=12&display=0,0,0,1,0,0,1,1"></script>
           `,
       },
       prism: {
