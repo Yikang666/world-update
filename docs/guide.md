@@ -3,7 +3,7 @@ title: 萌新入坑指南
 sidebar_position: 1
 ---
 
-<video width="100%" src="/videos/guide.mp4" controls></video>
+<video width="100%" src="https://yikang-oss.s3.bitiful.net/world-update/guide.mp4" controls></video>
 
 ---
 

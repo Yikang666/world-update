@@ -100,6 +100,10 @@ const config = {
                 label: '更新说明',
                 to: '/category/更新说明',
               },
+              {
+                label: '萌新入坑指南',
+                to: '/guide',
+              },
             ],
           },
           {
