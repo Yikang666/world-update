@@ -3,7 +3,7 @@ title: 萌新入坑指南
 sidebar_position: 1
 ---
 
-<video width="100%" src="https://oss.666-114514.eu.org:44445/guide.mp4" controlslist="nodownload" controls></video>
+<iframe src="//player.bilibili.com/player.html?aid=532539451&bvid=BV1qu41177wq&cid=1243333619&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
